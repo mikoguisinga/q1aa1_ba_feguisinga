@@ -1,0 +1,138 @@
+*{margin:0px;
+  padding:0px;}
+
+.page{
+    background-image: url(bg3.jpg);
+    background-size: cover;
+    height:auto;
+    background-position: center;
+    background-repeat:repeat;
+    height: auto;
+    width: 100%;
+}
+.navbar{
+    margin: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background: linear-gradient(to bottom, #c9be25, #e2f381);
+    height: 50px;
+    width: 100%;
+    border: 20px black;
+    position: absolute;
+    top:0;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    float:left;
+    border-radius: 50%;
+}
+.logo img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin:5px;
+}
+.homelinks a{
+    float: right;
+    padding: 0px;
+    padding-top:10px;
+    padding-bottom:0px;
+    margin: 10px;
+    color: #ffba3b;
+    background-color: #daff62;
+    border: solid 5px rgb(255, 224, 70);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 15%;
+}
+.banner{
+    padding-top: 20%;
+    padding-bottom: 20%;
+    text-align: center;
+}
+
+.footer{
+    margin: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background: linear-gradient(to bottom, #f6f934, #fdff85);
+    height: 50px;
+    width: 100%;
+    border: 20px black;
+}
+.copyright{
+    float:left;
+}
+.links{
+    float: right;
+    color:#c729d5;
+    padding-top: 9px;
+}
+.text1{
+    color:rgb(185, 70, 209);
+}
+.text2{
+    color:#437fff;
+    text-underline-position: below;
+}
+.text3{
+    color:#128a8a;
+}
+.text4{
+    color: #2ecd75;
+}
+.text5{
+    color:#daff62;
+}
+.paragraph{
+    color: rgb(0, 0, 0);
+    margin-top:1%;
+}
+.link a{
+    color: #ffba3b;
+    background-color: #daff62;
+    border: solid 5px rgb(255, 224, 70);
+    opacity: 10;
+    padding: 1%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.copyright{
+    padding-top: 15px;
+}
+.link{
+    padding-top: 3%;
+}
+.pages1{
+        background-image: url(bg2.jpg);
+        background-size: cover;
+        height:auto;
+        background-position: center;
+        background-repeat:repeat;
+        height: auto;
+        width: 100%;
+}
+.images{
+    text-align: center;
+    padding: 3%;
+    margin: 3%;
+}
+.rounded-image {
+    border-radius: 15%;
+    padding: 1%
+}
+.heading{
+    font-family:'Times New Roman', Times, serif;
+}
+.rounds{
+    border-radius: 50%;
+}
+.header{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #fefb91;
+    background-color: #fdaf3b;
+    border: solid 5px rgb(248, 142, 37);
+    opacity: 10;
+    padding: 1%;
+}
